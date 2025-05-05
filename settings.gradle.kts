@@ -21,4 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "Barok test"
 include(":app")
- 
+include(":core:network")
