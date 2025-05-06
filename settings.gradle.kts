@@ -22,3 +22,4 @@ dependencyResolutionManagement {
 rootProject.name = "Barok test"
 include(":app")
 include(":core:network")
+include(":features:poet-list")
