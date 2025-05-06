@@ -40,4 +40,8 @@ dependencies {
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)
+
+    implementation(libs.dagger.hilt)
+    implementation(libs.dagger.hilt.compiler)
+    implementation(libs.dagger.hilt.navigation)
 }
